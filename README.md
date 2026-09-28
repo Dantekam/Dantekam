@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hello, I'm Kian 👋
 
-<!--
-**Dantekam/Dantekam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science graduate student at the University of North Carolina Wilmington focused on software engineering, VR/XR, and applied AI research.
 
-Here are some ideas to get you started:
+### Currently Working On
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **MultiViewingExperience** — Multiplayer 360° VR experiences using Unity, C#, Meta Quest, and Ubiq
+- **Agentic AI VR Research** — VR construction environments for studying human–AI collaboration and trust
+- **Generative AI & Critical Thinking** — Master's thesis examining GenAI use, cognitive effort, confidence, and cognitive offloading in higher education
+
+### Technologies
+
+**Languages:** C#, Python, Java, Dart, SQL, GDScript  
+**Frameworks & Tools:** Unity, Godot, Flutter, Firebase, Git/GitHub  
+**Research & XR:** Meta Quest, VR/XR, Qualtrics, AlphaFold, ChimeraX
+
+### Featured Projects
+
+- MultiViewingExperience
+- CyberZ-Attack
+- Mindfulness Application
+- Agentic AI VR Research
+
+### Connect
+
+https://www.linkedin.com/in/kian-andrew-miley/ • Portfolio IP
