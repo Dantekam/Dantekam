@@ -1,4 +1,4 @@
-# Hello, I'm Kian
+# Hello, I'm Kian 🎈
 
 I'm a Computer Science graduate student at the University of North Carolina Wilmington focused on software engineering, VR/XR, full-stack development, and applied AI research.
 
