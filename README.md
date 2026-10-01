@@ -1,26 +1,61 @@
-# Hello, I'm Kian 👋
+# Mindfulness Application
 
-I'm a Computer Science graduate student at the University of North Carolina Wilmington focused on software engineering, VR/XR, and applied AI research.
+A mobile mindfulness application developed with Flutter and Dart as a collaborative UNCW software development project.
 
-### Currently Working On
+The application provides users with mindfulness activities, journaling, and account-based functionality while demonstrating full-stack mobile development with Firebase authentication and cloud-hosted persistent data.
 
-- **MultiViewingExperience** — Multiplayer 360° VR experiences using Unity, C#, Meta Quest, and Ubiq
-- **Agentic AI VR Research** — VR construction environments for studying human–AI collaboration and trust
-- **Generative AI & Critical Thinking** — Master's thesis examining GenAI use, cognitive effort, confidence, and cognitive offloading in higher education
+## Features
 
-### Technologies
+- User account creation and authentication
+- Mindfulness and wellness exercises
+- Personal journal functionality
+- Persistent user information
+- Cloud-backed application data
+- Multi-screen application navigation
+- Responsive Flutter user interface
 
-**Languages:** C#, Python, Java, Dart, SQL, GDScript  
-**Frameworks & Tools:** Unity, Godot, Flutter, Firebase, Git/GitHub  
-**Research & XR:** Meta Quest, VR/XR, Qualtrics, AlphaFold, ChimeraX
+## Technologies
 
-### Featured Projects
+- Flutter
+- Dart
+- Firebase
+- Firebase Authentication
+- Cloud Firestore
+- Git / GitHub
+- Android
 
-- MultiViewingExperience
-- CyberZ-Attack
-- Mindfulness Application
-- Agentic AI VR Research
+## Screenshots
 
-### Connect
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/4c4761d9-3146-42ff-a567-29c38f2924a9" alt="Login screen" width="22%">
+  <img src="https://github.com/user-attachments/assets/d55eac72-c9fb-4572-ae7d-3b563adfb475" alt="Home screen" width="22%">
+  <img src="https://github.com/user-attachments/assets/06afb55e-bc70-4f87-8f0b-51eb13cb66e7" alt="Exercises screen" width="22%">
+  <img src="https://github.com/user-attachments/assets/c055a865-ce06-41fd-af83-54f43af7ff8c" alt="Journal entry screen" width="22%">
+</p>
 
-https://www.linkedin.com/in/kian-andrew-miley/ • Portfolio IP
+## Firebase Integration
+
+Firebase provides the application's backend services, allowing the Flutter client to communicate with cloud-hosted user data.
+
+The project uses Firebase Authentication for account functionality and Cloud Firestore for persistent application data, connecting the Flutter mobile interface with cloud-based backend services.
+
+## Project Structure
+
+The application follows Flutter's widget-based development model, separating interface components, application logic, screens, and Firebase-backed services.
+
+The project demonstrates experience with:
+
+- Flutter UI and widget development
+- Dart application logic
+- Firebase integration
+- Authentication
+- Database operations
+- Asynchronous application behavior
+- Mobile application testing and debugging
+- Collaborative software development
+
+## Project Background
+
+Developed as a collaborative UNCW course project by **Kian Miley and Jaden VanWyngaarden**. This repository contains my preserved copy of the completed application for portfolio purposes.
+
+Development was completed collaboratively, with both team members contributing across implementation, testing, debugging, and review rather than maintaining strictly separated areas of ownership.
